@@ -4,4 +4,6 @@ My name is Benjamin, I'm a french student in software engineering. I love astron
 I like to code in C++ and Java, and I'm currently learning TypeScript and Docker.
 
 <!-- hey that's private don't look! -->
-[![Top Langs](https://github-readme-stats-tau-woad.vercel.app/api/top-langs/?username=BenjaminDls&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-tau-woad.vercel.app/api/top-langs/?username=BenjaminDls&layout=compact&theme=dracula&langs_count=10" />
+</a>
